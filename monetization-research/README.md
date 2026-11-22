@@ -173,6 +173,7 @@
 ## 続き
 - [第2弾：toB／勝手にミッション系／ゲームで1000万円](./02-b2b-fitness-game.md)
 - [第3弾：海外の参考事例と狙うべき層](./03-overseas-examples-and-target.md)
+- [第4弾：Slack分析＋全プロダクトの競合調査](./04-slack-analytics-and-competitors.md)
 
 ## 出典
 - [Steam indie stats (levvvel)](https://levvvel.com/statistics/indie-gaming/) / [Notebookcheck: Indie games 25% of Steam revenue 2025](https://www.notebookcheck.net/Indie-games-accounted-for-25-of-Steam-s-revenue-in-2025.1189429.0.html) / [TechSpot: 5,863本が$10万超](https://www.techspot.com/community/topics/game-devs-cash-in-nearly-6-000-steam-games-earned-over-100-000-last-year.296762/) / [Steam Page Analyzer](https://www.steampageanalyzer.com/blog/how-much-do-indie-game-developers-make)
