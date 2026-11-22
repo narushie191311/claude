@@ -170,6 +170,9 @@
 
 ---
 
+## 続き
+- [第2弾：toB／勝手にミッション系／ゲームで1000万円](./02-b2b-fitness-game.md)
+
 ## 出典
 - [Steam indie stats (levvvel)](https://levvvel.com/statistics/indie-gaming/) / [Notebookcheck: Indie games 25% of Steam revenue 2025](https://www.notebookcheck.net/Indie-games-accounted-for-25-of-Steam-s-revenue-in-2025.1189429.0.html) / [TechSpot: 5,863本が$10万超](https://www.techspot.com/community/topics/game-devs-cash-in-nearly-6-000-steam-games-earned-over-100-000-last-year.296762/) / [Steam Page Analyzer](https://www.steampageanalyzer.com/blog/how-much-do-indie-game-developers-make)
 - [AUTOMATON: 2025年国産ヒット開発者インタビュー](https://automaton-media.com/articles/columnjp/20251231-394081/) / [GameBusiness: 100本も売れていない](https://www.gamebusiness.jp/article/2026/04/30/26820.html)
